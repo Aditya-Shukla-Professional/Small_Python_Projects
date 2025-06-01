@@ -43,5 +43,5 @@ Made with:
 Clone the repo:
 
 ```bash
-git clone https://github.com/Aditya-Shukla-Professional/python-projects.git
-cd python-projects
+git clone https://github.com/Aditya-Shukla-Professional/Small_Python_Projects.git
+cd Small_Python_Projects
